@@ -1,82 +1,128 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16324F,100:2A9D8F&height=185&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="John Akech" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:16324F,100:2A9D8F&height=180&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&fontAlignY=38"
+    alt="John Akech"
+  />
 </p>
 
 <h1 align="center">John Akech</h1>
 
 <p align="center">
-  <strong>Master of Science in Information Technology | Cloud & Platform Infrastructure Engineering</strong>
+  <strong>Master of Science in Information Technology</strong><br/>
+  Carnegie Mellon University Africa<br/><br/>
+  <strong>Cloud & Platform Infrastructure Engineering</strong>
 </p>
 
 <p align="center">
-  Carnegie Mellon University Africa
+  <a href="mailto:jakech@andrew.cmu.edu">
+    <img src="https://img.shields.io/badge/Email-jakech%40andrew.cmu.edu-16324F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-akech">
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## Professional Profile
 
-I am a Master of Science in Information Technology student at Carnegie Mellon University Africa, developing practical expertise in cloud and platform infrastructure engineering.
+I am a Master of Science in Information Technology student at Carnegie Mellon University Africa, developing practical capabilities in cloud and platform infrastructure engineering.
 
-My technical development focuses on Linux systems, computer networking, AWS, Microsoft Azure, infrastructure automation, containers, CI/CD, Kubernetes, observability, and secure infrastructure practices.
+My current technical development focuses on Linux systems, computer networking, AWS, Microsoft Azure, infrastructure automation, containers, CI/CD, Kubernetes, observability, and secure infrastructure practices.
 
-I am particularly interested in designing and operating infrastructure that is reliable, reproducible, observable, scalable, and secure by design.
+I am particularly interested in building infrastructure that is reliable, reproducible, observable, scalable, and secure by design.
 
 ---
 
 ## Technical Focus
 
-- **Cloud Infrastructure:** AWS, Microsoft Azure
-- **Operating Systems:** Linux
-- **Networking:** TCP/IP, DNS, routing, ports, connectivity troubleshooting
-- **Automation:** Bash, Python
-- **Infrastructure as Code:** Terraform
-- **Configuration Management:** Ansible
-- **Containers:** Docker, Docker Compose
-- **Container Orchestration:** Kubernetes, Azure Kubernetes Service (AKS)
-- **CI/CD:** GitHub Actions, Jenkins
-- **GitOps:** Argo CD
-- **Observability:** Metrics, logs, Prometheus, Grafana
-- **Infrastructure Security:** Secure configuration, identity, access control, SSH, MFA
-- **Version Control:** Git, GitHub
+### Cloud Infrastructure
+- Amazon Web Services
+- Microsoft Azure
 
----
+### Systems & Networking
+- Linux systems administration
+- TCP/IP networking
+- DNS
+- routing and connectivity
+- SSH
+- system and network troubleshooting
 
-## Current Engineering Development
+### Automation & Infrastructure
+- Bash
+- Python
+- Terraform
+- Ansible
 
-I am currently strengthening my ability to:
+### Containers & Platforms
+- Docker
+- Docker Compose
+- Kubernetes
+- Azure Kubernetes Service
 
-- provision and manage cloud infrastructure
-- administer and troubleshoot Linux systems
-- diagnose network and connectivity issues
-- automate infrastructure deployment and configuration
-- containerize and deploy applications
-- build and validate CI/CD workflows
-- operate Kubernetes-based workloads
-- implement infrastructure monitoring and observability
-- troubleshoot failures systematically using evidence
-- apply security principles throughout infrastructure design
+### Delivery & Operations
+- Git
+- GitHub
+- GitHub Actions
+- Jenkins
+- CI/CD
+- GitOps
+- infrastructure monitoring and observability
+
+### Infrastructure Security
+- identity and access control
+- secure configuration
+- SSH security
+- multi-factor authentication
+- least-privilege principles
+- secure-by-design infrastructure practices
 
 ---
 
 ## Engineering Approach
 
-My technical work follows a practical engineering cycle:
+I approach technical work through a structured engineering cycle:
 
 **Understand → Design → Build → Test → Troubleshoot → Verify → Document → Improve**
 
-I focus on understanding not only how a technology works, but also why it is used, how it fails, and how to verify that a solution is operating correctly.
+My goal is not only to understand how a technology works, but also to understand:
+
+- why it is used
+- how its components interact
+- how failures occur
+- how problems can be diagnosed systematically
+- how solutions can be validated
+- how infrastructure can be made more reliable and secure
 
 ---
 
-## Selected Engineering Work
+## Current Development
 
-My repositories document practical work across cloud infrastructure, Linux administration, networking, automation, containers, CI/CD, Kubernetes, observability, and infrastructure security.
+I am currently strengthening my ability to:
 
-Project documentation is structured around:
+- administer Linux systems
+- troubleshoot networking and connectivity problems
+- provision and manage cloud infrastructure
+- automate infrastructure deployment and configuration
+- manage infrastructure as code
+- containerize and deploy applications
+- build and validate CI/CD workflows
+- operate Kubernetes-based workloads
+- investigate infrastructure failures
+- implement monitoring and observability
+- apply security principles throughout infrastructure design
+
+---
+
+## Engineering Portfolio
+
+My repositories document practical engineering work across cloud infrastructure, Linux, networking, automation, containers, Kubernetes, CI/CD, observability, and infrastructure security.
+
+Each major project is intended to demonstrate:
 
 - problem definition
-- architecture and design
+- system architecture
+- design decisions
 - implementation
 - configuration and automation
 - testing and validation
@@ -88,7 +134,7 @@ Project documentation is structured around:
 
 ## Professional Development Path
 
-My current infrastructure engineering development includes:
+My current technical development follows a structured progression:
 
 1. DevOps and software delivery fundamentals
 2. Linux systems administration
@@ -98,9 +144,9 @@ My current infrastructure engineering development includes:
 6. AWS infrastructure
 7. Microsoft Azure
 8. Docker and containerization
-9. Terraform
-10. Ansible
-11. CI/CD
+9. Infrastructure as Code with Terraform
+10. Configuration management with Ansible
+11. CI/CD pipelines
 12. Kubernetes and Helm
 13. GitOps
 14. Observability
@@ -112,7 +158,13 @@ My current infrastructure engineering development includes:
 
 **Carnegie Mellon University Africa**  
 Master of Science in Information Technology  
+Kigali, Rwanda  
 Expected 2028
+
+**African Leadership University**  
+Bachelor of Science in Software Engineering  
+Kigali, Rwanda  
+January 2023 – July 2026
 
 ---
 
@@ -127,17 +179,18 @@ I am building toward internship and early-career opportunities in:
 - Cloud Operations
 - Infrastructure-focused Cloud Security
 
-My long-term focus is cloud and platform infrastructure engineering, with emphasis on automation, reliability, observability, and security.
+My long-term professional focus is **Cloud & Platform Infrastructure Engineering**, with emphasis on automation, reliability, observability, scalability, and security.
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="mailto:jakech@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Email-jakech%40andrew.cmu.edu-16324F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/john-akech">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="mailto:jakech@andrew.cmu.edu">Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/john-akech">LinkedIn</a>
+</p>
+
+<p align="center">
+  <sub>Cloud • Infrastructure • Automation • Reliability • Security</sub>
 </p>
