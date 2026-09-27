@@ -1,121 +1,143 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Akech&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16324F,100:2A9D8F&height=185&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="John Akech" />
+</p>
+
+<h1 align="center">John Akech</h1>
+
+<p align="center">
+  <strong>Master of Science in Information Technology | Cloud & Platform Infrastructure Engineering</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=5BCDEC&center=true&vCenter=true&width=820&lines=Backend+Developer+in+Progress;Java+Focused;Building+Strong+Foundations;Learning+by+Doing+Every+Day" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi, I'm John Akech 👋</h1>
-
-<p align="center">
-  <strong>Software Engineering Student • Backend Developer in Progress • Java Focused</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=John-Akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot-0e75b6?style=for-the-badge&logo=springboot&logoColor=white" alt="Currently Learning Spring Boot" />
+  Carnegie Mellon University Africa
 </p>
 
 ---
 
-## About Me
+## Professional Profile
 
-I am a **Software Engineering student at the African Leadership University**, focused on becoming a strong **backend developer**.
+I am a Master of Science in Information Technology student at Carnegie Mellon University Africa, developing practical expertise in cloud and platform infrastructure engineering.
 
-I am currently building a solid foundation in programming through **Java**, problem-solving, and consistent hands-on practice.
+My technical development focuses on Linux systems, computer networking, AWS, Microsoft Azure, infrastructure automation, containers, CI/CD, Kubernetes, observability, and secure infrastructure practices.
 
-I enjoy understanding how systems work behind the scenes, writing clean code, and improving step by step through real-world learning.
-
-Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**. That experience shaped my perspective on building **practical and meaningful technology**.
-
-> I believe software should be **simple, reliable, and built to solve real-world problems.**
+I am particularly interested in designing and operating infrastructure that is reliable, reproducible, observable, scalable, and secure by design.
 
 ---
 
-## Learning Focus
+## Technical Focus
 
-- Core **Java**
-- **Object-Oriented Programming**
-- **Data Structures and Algorithms**
-- Backend development fundamentals
-- Problem-solving through practice
-- Preparing to learn **Spring Boot**
+- **Cloud Infrastructure:** AWS, Microsoft Azure
+- **Operating Systems:** Linux
+- **Networking:** TCP/IP, DNS, routing, ports, connectivity troubleshooting
+- **Automation:** Bash, Python
+- **Infrastructure as Code:** Terraform
+- **Configuration Management:** Ansible
+- **Containers:** Docker, Docker Compose
+- **Container Orchestration:** Kubernetes, Azure Kubernetes Service (AKS)
+- **CI/CD:** GitHub Actions, Jenkins
+- **GitOps:** Argo CD
+- **Observability:** Metrics, logs, Prometheus, Grafana
+- **Infrastructure Security:** Secure configuration, identity, access control, SSH, MFA
+- **Version Control:** Git, GitHub
 
 ---
 
-## Tech Stack
+## Current Engineering Development
+
+I am currently strengthening my ability to:
+
+- provision and manage cloud infrastructure
+- administer and troubleshoot Linux systems
+- diagnose network and connectivity issues
+- automate infrastructure deployment and configuration
+- containerize and deploy applications
+- build and validate CI/CD workflows
+- operate Kubernetes-based workloads
+- implement infrastructure monitoring and observability
+- troubleshoot failures systematically using evidence
+- apply security principles throughout infrastructure design
+
+---
+
+## Engineering Approach
+
+My technical work follows a practical engineering cycle:
+
+**Understand → Design → Build → Test → Troubleshoot → Verify → Document → Improve**
+
+I focus on understanding not only how a technology works, but also why it is used, how it fails, and how to verify that a solution is operating correctly.
+
+---
+
+## Selected Engineering Work
+
+My repositories document practical work across cloud infrastructure, Linux administration, networking, automation, containers, CI/CD, Kubernetes, observability, and infrastructure security.
+
+Project documentation is structured around:
+
+- problem definition
+- architecture and design
+- implementation
+- configuration and automation
+- testing and validation
+- troubleshooting
+- security considerations
+- lessons learned
+
+---
+
+## Professional Development Path
+
+My current infrastructure engineering development includes:
+
+1. DevOps and software delivery fundamentals
+2. Linux systems administration
+3. Networking for infrastructure engineering
+4. Bash and Python automation
+5. Git and GitHub workflows
+6. AWS infrastructure
+7. Microsoft Azure
+8. Docker and containerization
+9. Terraform
+10. Ansible
+11. CI/CD
+12. Kubernetes and Helm
+13. GitOps
+14. Observability
+15. Infrastructure security
+
+---
+
+## Education
+
+**Carnegie Mellon University Africa**  
+Master of Science in Information Technology  
+Expected 2028
+
+---
+
+## Professional Direction
+
+I am building toward internship and early-career opportunities in:
+
+- Cloud Engineering
+- Platform Engineering
+- Infrastructure Engineering
+- DevOps Engineering
+- Cloud Operations
+- Infrastructure-focused Cloud Security
+
+My long-term focus is cloud and platform infrastructure engineering, with emphasis on automation, reliability, observability, and security.
+
+---
+
+## Contact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <b>Java</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b>
-</p>
-
----
-
-## Approach
-
-- Build consistently  
-- Focus on strong fundamentals  
-- Write clean, readable code  
-- Improve step by step  
-- Prioritize long-term growth over shortcuts  
-
----
-
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide=C,cpp" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&mode=weekly" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide=Java,Python,C,C%2B%2B" height="150"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Akech/John-Akech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Akech/John-Akech/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/John-Akech/John-Akech/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## Career Direction
-
-I am working toward becoming a **professional backend developer** with:
-
-- strong programming fundamentals  
-- deep understanding of systems  
-- the ability to build **reliable and scalable software**  
-
-I am committed to continuous learning, consistency, and long-term mastery.
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:johnakec12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnakec12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:jakech@andrew.cmu.edu">
+    <img src="https://img.shields.io/badge/Email-jakech%40andrew.cmu.edu-16324F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/john-akech">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <em>Building with purpose. Improving every day.</em>
 </p>
