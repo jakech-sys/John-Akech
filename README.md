@@ -47,8 +47,8 @@ I use virtual machines, network simulations, cloud labs, and small infrastructur
 
 ### Selected Lab Repositories
 
-- **[IT Support Home Lab](https://github.com/jakech-sys/it-support-homelab)** — Windows and virtual-machine practice, IT support workflows, troubleshooting, and lab documentation.
-- **[Systems Engineering & DevOps Exercises](https://github.com/jakech-sys/alu-system_engineering-devops)** — Earlier systems engineering and operations exercises.
+- **[IT Support Home Lab](https://github.com/jakech-sys/it-support-homelab)** — Documented VirtualBox lab with Windows Server 2019, Active Directory, DNS, domain-joined Windows clients, and domain-join troubleshooting. The README explicitly records outstanding configuration improvements.
+- **[Network Engineering Labs](https://github.com/jakech-sys/network-engineering-labs)** — A networking lab repository for Cisco Packet Tracer, switching, routing, network security, and troubleshooting. Its current README is introductory; completed configurations and operational test results are not yet documented there.
 
 I aim to document each substantial project with its objective, architecture, configuration, tests, troubleshooting evidence, security considerations, and lessons learned. Projects evolve as I learn.
 
